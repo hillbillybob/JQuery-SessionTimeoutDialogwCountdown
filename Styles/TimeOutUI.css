@@ -1,0 +1,22 @@
+﻿.ui-dialog {
+            border: 1px solid black;
+        }
+        .ui-dialog-titlebar {
+            background-color: lightgray;
+            padding:3px;
+            margin-bottom:5px;
+            color: red;
+        }
+        .ui-dialog-titlebar-close{
+            display:none;
+        }
+        .ui-dialog-content {
+            padding: 10px;
+        }
+        .ui-dialog-buttonpane {
+            background-color: lightgray;
+            padding-bottom: 5px;
+            padding-top: 5px;
+            padding-left: 3px;
+            padding-right: 3px;
+        }
